@@ -18,7 +18,7 @@ public class CorsConfig {
 
         config.setAllowedOrigins(List.of(
                 "http://localhost:5173",
-                "https://intership-assignment-6-frontend-production.up.railway.app"
+                "https://intership-assignment-6-frontend.onrender.com/"
         ));
 
         config.setAllowedMethods(List.of(
